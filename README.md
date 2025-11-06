@@ -26,7 +26,7 @@ then close it again like nothing happened.
 ### 🌐 Where to Find Me
 
 <p align="center">
-  <a href="https://github.com/achmaddzaki"><img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/itszakey"><img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
