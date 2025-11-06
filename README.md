@@ -10,23 +10,16 @@
 
 Made this GitHub out of boredom.
 Not a developer, not trying to be one either.
-If you see any repo here, that’s probably an accident.
-
----
-
-### ⚙️ Tools I Pretend to Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,git,markdown" />
-</p>
-
-> Mostly using them to look busy.
+If you see any repo here — that’s probably an accident.
 
 ---
 
 ### 💭 Thoughts
 
-> I don’t code. I just commit boredom.
+> “I don’t code. I just commit boredom.”
+
+Sometimes I open VS Code just to stare at it,
+then close it again like nothing happened.
 
 ---
 
